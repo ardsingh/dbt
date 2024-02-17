@@ -41,4 +41,6 @@ models:
     example:
       +materialized: table
     example2:
-      +materialized: table    
+      +materialized: table
+    example3:
+      +materialized: table       
